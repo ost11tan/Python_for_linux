@@ -1,0 +1,9 @@
+{
+  "test_positive.py::test_step3": true,
+  "test_7z_positive.py::test_step1": true,
+  "test_7z_positive.py::test_step2": true,
+  "test_7z_positive.py::test_step3": true,
+  "test_7z_positive.py::test_step4": true,
+  "test_7z_positive.py::test_step5": true,
+  "test_7z_positive.py::test_step7": true
+}

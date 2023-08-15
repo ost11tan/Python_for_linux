@@ -1,0 +1,7 @@
+[
+  "task1.py::test_step1",
+  "task1.py::test_step2",
+  "task2.py::test_step1",
+  "task2.py::test_step2",
+  "task2.py::test_step6"
+]
